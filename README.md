@@ -37,4 +37,4 @@ Source: Public dataset from Kaggle.
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png.png)
+![Dashboard](Dashboard.png.png)
